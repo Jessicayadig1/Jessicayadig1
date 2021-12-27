@@ -1,0 +1,42 @@
+/* 
+
+Project Name: Portfolio 2 
+Client: One Month
+Author: Jessica Williams | www.facebook/jessicarussell83 | BusinessConsultingJessica@gmail.com | (469) 777-0512
+Developed @ Business Consulting Jessica in DFW 
+
+*/
+
+body {
+	background: url('../images/1336541.jpg');
+	/* the follow is the code to have the image display as a full page */
+	background-position: center;
+	background-attachment: fixed;
+	-webkit-background-size: cover; /* the next 3 lines are "browser prefixes", they are necessary to include for CSS3 techniques */
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	font-family: 'Indie Flower', cursive;
+}
+
+#container {
+	background: black;
+	width:  600px;
+	color: white;
+	padding: 5px;
+
+}
+h1{
+font-size: 50px; font-family: 'Indie Flower', cursive;
+}
+h2{
+	Background: #32cd32;
+	font-family: 'Indie Flower', cursive;
+	Color: black;
+	Padding: 1;
+	border-radius: 1px;
+
+}
+a {
+	Color: #000000
+		text-decoration: none;}
